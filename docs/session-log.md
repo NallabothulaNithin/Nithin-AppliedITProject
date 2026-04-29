@@ -2,13 +2,13 @@
 # Tuesday 28-04-2025
 ## Alice
 **What I worked on:**
-- Set up the project folder structure
-- Created the initial `index.html` file
-- Helped Bob debug his Git push error
+- Set up GitHub repository access.
+- Created feature branch.
+- Configured Personal Access Token.
+- Pushed my branch Successfully.
 
 **What I learned:**
-- How `git switch -c` creates and moves to a branch in one step
-- That you can't push to a protected branch directly
+- Learned how to use git clone, Git Switch, Git add, Git commit, Git push.
 
 **Blockers / Questions:**
-- Not sure how to link CSS file correctly — will ask next session
+- Initially faced GitHub authentication errors (403 and password authentication issue), resolved by creating a fine-grained token with Contents → Read and write permission.
