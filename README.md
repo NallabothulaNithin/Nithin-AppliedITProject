@@ -7,7 +7,7 @@
 | Role | Name |
 |---|---|
 | Product Owner | Nithin |
-| Scrum Master | Madhav |
+| Scrum Master | Madhav Borra |
 | Developer | Eshwar |
 | Developer | |
 | Developer | |
