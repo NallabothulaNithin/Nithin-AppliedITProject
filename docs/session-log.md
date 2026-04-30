@@ -1,14 +1,10 @@
 
 # Tuesday 28-04-2025
-## Alice
+## EShwaryadav
 **What I worked on:**
-- Set up GitHub repository access.
-- Created feature branch.
-- Configured Personal Access Token.
-- Pushed my branch Successfully.
+- Set up GitHub repository access. 
 
 **What I learned:**
-- Learned how to use git clone, Git Switch, Git add, Git commit, Git push.
+- I learned how to create branch in git
 
-**Blockers / Questions:**
-- Initially faced GitHub authentication errors (403 and password authentication issue), resolved by creating a fine-grained token with Contents → Read and write permission.
+-
