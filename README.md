@@ -8,7 +8,7 @@
 |---|---|
 | Product Owner | Nithin |
 | Scrum Master | Madhav |
-| Developer | Eshwar |
+| Developer | Eshwar yadav jakkula |
 | Developer | |
 | Developer | |
 
@@ -31,7 +31,7 @@ service-a  ──►  service-b
 
 | Layer | Technology |
 |---|---|
-| Frontend | |
+| Frontend | Eshwar |
 | Backend | |
 | Database | |
 | Deployment | |
