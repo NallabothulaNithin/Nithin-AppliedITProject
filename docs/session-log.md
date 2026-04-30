@@ -8,7 +8,7 @@
 - Pushed my branch Successfully.
 
 **What I learned:**
-- Learned how to use git clone, Git Switch, Git add, Git commit, Git push.
+- Learned how to use scrum and agile terminology
 
 **Blockers / Questions:**
 - Initially faced GitHub authentication errors (403 and password authentication issue), resolved by creating a fine-grained token with Contents → Read and write permission.
