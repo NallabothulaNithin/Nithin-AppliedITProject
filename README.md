@@ -1,4 +1,4 @@
-# Nithin-AppliedITProject
+Safe Stay AI
 
 > One-sentence description of what this project does and who it is for.
 
@@ -7,7 +7,7 @@
 | Role | Name |
 |---|---|
 | Product Owner | Nithin |
-| Scrum Master | Madhav |
+| Scrum Master | Madhav Borragit  |
 | Developer | Eshwar |
 | Developer | |
 | Developer | |

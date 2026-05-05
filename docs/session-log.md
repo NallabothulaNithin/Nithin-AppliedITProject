@@ -1,6 +1,6 @@
 
 # Tuesday 28-04-2025
-## Alice
+## Nithin
 **What I worked on:**
 - Set up the project folder structure
 - Started working on SafeStay AI rental fraud detection project
