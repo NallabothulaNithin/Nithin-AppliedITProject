@@ -6,7 +6,7 @@
 
 Madhav
 **What I learned:**
-Learned how to use scrum and agile terminology.
+- Learned how to use scrum and agile terminology.
 
 
 
