@@ -1,14 +1,13 @@
 
 # Tuesday 28-04-2025
-## Alice
+## Nithin
 **What I worked on:**
 - Set up the project folder structure
-- Created the initial `index.html` file
-- Helped Bob debug his Git push error
+- Started working on Safestay AI rental fraud detection project.
+- Connected GitHub repository to local project.
 
 **What I learned:**
-- How `git switch -c` creates and moves to a branch in one step
-- That you can't push to a protected branch directly
+- Basic Git commands like clone, pull, push, and commit.
 
 **Blockers / Questions:**
-- Not sure how to link CSS file correctly — will ask next session
+- Need more understanding about deployment process.
