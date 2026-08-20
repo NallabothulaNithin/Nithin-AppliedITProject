@@ -1199,7 +1199,7 @@ What I Worked On
 * Enforced data isolation by linking tasks directly to the authenticated user's account.
 * Restricted data access to ensure users can only modify their own resources.
 * Updated frontend API services to include authorization tokens in request headers.
-* Verified security integrity by testing login flows, task lifecycles, and permission boundaries.
+* Verified securiity integrity by testing login flows, task lifecycles, and permission boundaries.
 
 What I Learned
 * Mastered using JWTs to secure stateless backend APIs.
@@ -1207,7 +1207,7 @@ What I Learned
 * Clarified the operational boundaries between authentication and authorization.
 * Designed database relationships to bind user identities to specific data records.
 * Aligned frontend and backend communication patterns for secure data transmission.
-* Standardized API error responses for 401 Unauthorized and 403 Forbidden status codes.
+* Standardized API error responses for 401 Unauthorized and 403 Forbidden status codes and more.
 
 Questions / Blockers
 * Resolved issues regarding injecting the logged-in user context into the task service layer.
